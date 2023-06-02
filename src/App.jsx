@@ -22,7 +22,7 @@ function App() {
 
   // State
   const [isAdding, setIsAdding] = useState(false);
-  const [inputData, setInputData] = useState([{ name: 'Ayako GitHub', url: 'https://github.com/Pyon18Pyon'}]);
+  const [inputData, setInputData] = useState([{ name: 'Ayako GitHub', url: 'https://github.com/PyonAU'}]);
   const [inputField, setInputField] = useState({
     name: '',
     url: ''
